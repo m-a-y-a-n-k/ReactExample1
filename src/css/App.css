@@ -1,0 +1,11 @@
+.App {
+  margin: 16px;
+}
+
+.output {
+  text-align: center;
+  color: white;
+  background-color: rgba(18, 106, 146, 0.76);
+  margin: auto;
+  padding: 2%;
+}
